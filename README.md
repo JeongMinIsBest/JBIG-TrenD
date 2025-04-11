@@ -24,4 +24,4 @@
 
 | Week | Study Contents |
 |:----:|:----:|
-| Week 4 | https://www.notion.so/5-BoW-TF-IDF-1cffb4f87615807a89dbf234459839c6?pvs=4 |
+| Week 5 | https://www.notion.so/5-BoW-TF-IDF-1cffb4f87615807a89dbf234459839c6?pvs=4 |
